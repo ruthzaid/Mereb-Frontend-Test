@@ -1,0 +1,16 @@
+
+nav.navigation{
+    height: 5rem;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.navigation h1{
+    width: 80%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color:#eab676;
+    font-size: 3rem;
+    font-weight: 1000;
+}

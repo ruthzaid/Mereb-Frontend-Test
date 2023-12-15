@@ -1,0 +1,18 @@
+.card {
+    margin: 1rem 1rem 1rem 1rem;
+    padding: 1.5rem;
+    box-shadow: 0 2rem 2rem 0 rgba(0,0,0,0.1);
+    background-color: #eab676;
+    width: 18rem;
+    height: 12rem;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    transition: transform .4s ease;
+    cursor: pointer;
+}
+
+.button{
+    margin-top: 1.5rem;
+}
